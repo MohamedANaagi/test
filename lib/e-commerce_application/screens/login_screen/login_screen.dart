@@ -24,7 +24,7 @@ class _NewLoginScreenState extends State<NewLoginScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        width: double.infinity,
+
         decoration: const BoxDecoration(
           gradient: LinearGradient(
             colors: [Color(0xFFECE9EA), Color(0xFF5D4626)],
